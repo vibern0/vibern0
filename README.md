@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="./newnameanimated.gif" alt="Bernardo" />
+</h1>
+
 ## Hey! 👋
 I'm Bernardo, a web3 full stack dev with over 6 years experience in the space.
 
