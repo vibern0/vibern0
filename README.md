@@ -23,4 +23,3 @@ I'm Bernardo, a web3 full stack dev focused on backend/smart-contracts, with ove
 - [@vibern0](https://twitter.com/vibern0) on Twitter
 - [@vibern](https://linkedin.com/in/vibern) on Linkedin
 - [@vibern](https://warpcast.com/vibern) on Farcaster
-- [@vibern0](https://discord.gg/vibern0) on Discord
