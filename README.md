@@ -7,7 +7,7 @@ I'm Bernardo, a web3 full stack dev focused on backend/smart-contracts, with ove
 
 - 🦔 Previously co-founder at impactMarket.
 
-- 👨‍💻 Learning Rust. Also exploring ZK (mainly with Noir), AA and cross chain related tooling.
+- 👨‍💻 Always learning.
 
 - 🧭 Joined 10+ hackathons, winning some prizes along the way. More at [ETHGlobal](https://ethglobal.com/) and [devpost](https://devpost.com/obernardovieira).
 
@@ -20,7 +20,7 @@ I'm Bernardo, a web3 full stack dev focused on backend/smart-contracts, with ove
 + a lot more :D
 
 ## Contact
-- [@obernardovieira](https://twitter.com/obernardovieira) on Twitter
-- [@obernardovieira](https://linkedin.com/in/obernardovieira) on Linkedin
+- [@vibern0](https://twitter.com/vibern0) on Twitter
+- [@vibern](https://linkedin.com/in/vibern) on Linkedin
 - [@vibern](https://warpcast.com/vibern) on Farcaster
-- [@vi.bern](https://discord.gg/vi.bern) on Discord
+- [@vibern0](https://discord.gg/vibern0) on Discord
